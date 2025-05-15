@@ -79,7 +79,7 @@
         "pages": "129-133",
         "title": "Cops and robbers game and applications of its variant",
         "type": "article",
-        "url": "https://www.ewadirect.com/proceedings/ace/article/view/14111",
+        "url": "https://www.ewadirect.com/proceedings/ace/article/view/14111/pdf",
         "volume": "69",
         "year": "2024"
     },
